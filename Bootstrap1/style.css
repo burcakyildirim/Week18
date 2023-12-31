@@ -1,0 +1,46 @@
+img {
+    width: 50ex;
+}
+.navbar-custom {
+    background-color: #AF58A2;
+    margin-top: 1ex;
+}
+
+.row {
+    margin-top: 5ex;
+}
+
+h6 {
+    margin-left: 5ex;
+}
+.content-box {
+    margin : 5ex;
+    margin-left: 5ex;
+}
+
+img.custom {
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+}
+h1 {
+    text-align: center;
+}
+.info-box {
+    border: 15px solid #11AEBF;
+    padding: 50px;
+    margin: 20px;
+    box-shadow: 10px 5px 5px #FBBC07;
+}
+span {
+    font-weight: bold;
+}
+.nav-link {
+   justify-content: space-between;
+   float: right;
+}
+.card-content{
+    height: 78ex;
+    margin: 3ex;
+}
